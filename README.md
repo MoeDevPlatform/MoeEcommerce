@@ -1,84 +1,63 @@
 # MOE — Modern Online Ecommerce Platform
 
-Welcome to **MOE**, a visual-first ecommerce platform designed to connect customers with talented local artisans. MOE makes discovering, hiring, and working with service providers seamless, secure, and inspiring.
+**MOE** is a modern ecommerce platform designed to connect customers with verified local artisans through a rich, visual-first experience. Inspired by the best parts of Pinterest and trusted local marketplaces, MOE makes it easy for people to discover unique services, get inspired, and hire talented professionals — all in one safe, convenient place.
 
 ---
 
-## Overview
+## What is MOE?
 
-MOE is built for two main audiences:
-- **Customers (Users)** — Browse, discover, and hire verified artisans for unique services.
-- **Service Providers (Artisans)** — Showcase your work, manage your portfolio, and connect directly with clients.
+MOE helps bridge the gap between customers looking for creative, high-quality services and artisans who want to showcase their work and reach more clients. Whether you need a tailor, baker, decorator, or any skilled craftsperson, MOE provides a streamlined way to find and hire the right talent — with beautiful portfolios, transparent pricing, and direct, secure communication.
 
 ---
 
-## Key Features
+## Who is it for?
 
-### For Customers
-- **Visual-First Homepage**  
-  An endless scroll of high-quality images, inspired by platforms like Pinterest and Instagram.
-- **Powerful Search & Explore**  
-  Find artisans by service type, name, or keyword. Discover trending and featured providers.
-- **Advanced Filters**  
-  Filter results by location, service category, or price range (desktop view).
-- **Idea Boards**  
-  Save inspiring posts and create personal collections for future reference.
-- **Detailed Artisan Profiles**  
-  View full portfolios, transparent pricing, reviews, and ratings.
-- **Direct Booking & Secure Messaging**  
-  Message artisans securely and book services easily within the platform.
+- **Customers** — People who want to discover local artisans, see real examples of their work, compare options, and hire with confidence.
+- **Artisans** — Independent service providers who want an easy way to build an online presence, show what they can do, and connect directly with interested customers.
 
 ---
 
-### For Service Providers
-- **Quick Profile Setup**  
-  Create a professional profile with your business name, bio, and contact details.
-- **Portfolio Management**  
-  Upload high-quality images and videos with descriptions and tags.
-- **Clear Service Listings**  
-  Clearly display your services with pricing or starting rates.
-- **Client Communication Hub**  
-  Manage all customer messages and booking requests in one place.
+## How does it work?
+
+MOE’s visual-first homepage and intuitive search tools make it simple to browse inspiring images of real projects. Users can:
+- Scroll through an endless feed of artisan work.
+- Search and filter results by location, service type, or price.
+- Save their favorite ideas to personal boards.
+- View detailed artisan profiles with portfolios, reviews, and clear pricing.
+- Chat securely and book services directly on the platform.
+
+Meanwhile, artisans can:
+- Create a professional profile in minutes.
+- Upload photos and videos to build a compelling portfolio.
+- List services and pricing clearly.
+- Receive and manage all customer inquiries and bookings in one place.
+
+All interactions are kept secure within the app, and only verified artisans receive a trusted badge, giving customers peace of mind.
 
 ---
 
-### Trust & Safety
-- **Verified Artisans**  
-  A verified badge confirms an artisan’s identity.
-- **Ratings & Reviews**  
-  Transparent 5-star system builds trust and credibility.
-- **Secure In-App Messaging**  
-  Keeps all communication safe within the platform.
+## Why MOE?
+
+Local service providers often rely on word-of-mouth or scattered social media pages to find clients. MOE brings all of that into one organized, inspiring platform — making it easier for customers to find what they need and for artisans to grow their business.
 
 ---
 
-### General Features
-- **Cross-Platform Access**  
-  Use MOE on both mobile and desktop.
-- **Simple Navigation**  
-  Clean layout with easy access to Explore, Saved, Messages, and Profile.
-- **Optimized Layouts**  
-  Mobile view for quick browsing and saving ideas; Desktop view for advanced search and comparisons.
+## Availability
+
+MOE works seamlessly on both mobile and desktop. Whether you’re browsing ideas on the go or comparing service providers in detail, the experience is smooth, simple, and designed for real life.
 
 ---
 
-## Inspiration
+## Get Involved
 
-MOE combines the best parts of Pinterest, Jiji, and Chowdeck — blending visual discovery with trusted local transactions.
-
----
-
-## Get Started
-
-- **Customers:** Sign up, discover artisans, save ideas, and book services.
-- **Artisans:** Create your profile, upload your best work, and connect with new clients.
+Sign up as a customer to find the perfect artisan for your next project, or create a profile as a service provider to share your work with the world.
 
 ---
 
 ## Contact
 
-For support, feedback, or partnership inquiries, please contact us at **[support@moe.com]**  
+For questions, support, or partnership opportunities, please reach out to **[support@moe.com]**  
 
 ---
 
-**Thank you for choosing MOE — where creativity meets convenience.**
+**MOE — Where creativity meets convenience.**
